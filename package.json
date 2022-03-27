@@ -1,0 +1,25 @@
+{
+  "name": "basicclassscraper",
+  "version": "1.0.0",
+  "description": "quick and easy attempt to scrape UCSD's public class information every quarter",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebReg2-0/BasicClassScraper.git"
+  },
+  "keywords": [
+    "webreg"
+  ],
+  "author": "ArturoAmaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebReg2-0/BasicClassScraper/issues"
+  },
+  "homepage": "https://github.com/WebReg2-0/BasicClassScraper#readme",
+  "dependencies": {
+    "puppeteer": "^13.5.1"
+  }
+}
